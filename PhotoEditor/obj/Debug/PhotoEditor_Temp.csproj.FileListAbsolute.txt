@@ -1,0 +1,7 @@
+E:\LapTrinhTrucQuan\20520481_PhotoEditor\PhotoEditor_Temp\bin\Debug\PhotoEditor_Temp.exe.config
+E:\LapTrinhTrucQuan\20520481_PhotoEditor\PhotoEditor_Temp\bin\Debug\PhotoEditor_Temp.exe
+E:\LapTrinhTrucQuan\20520481_PhotoEditor\PhotoEditor_Temp\bin\Debug\PhotoEditor_Temp.pdb
+E:\LapTrinhTrucQuan\20520481_PhotoEditor\PhotoEditor_Temp\obj\Debug\PhotoEditor_Temp.csprojAssemblyReference.cache
+E:\LapTrinhTrucQuan\20520481_PhotoEditor\PhotoEditor_Temp\obj\Debug\PhotoEditor_Temp.csproj.CoreCompileInputs.cache
+E:\LapTrinhTrucQuan\20520481_PhotoEditor\PhotoEditor_Temp\obj\Debug\PhotoEditor_Temp.exe
+E:\LapTrinhTrucQuan\20520481_PhotoEditor\PhotoEditor_Temp\obj\Debug\PhotoEditor_Temp.pdb
